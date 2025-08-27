@@ -149,7 +149,7 @@ def get_best_book(catalog):
 
     :return: El libro con el mejor rating
     """
-    tart_time = getTime()
+    start_time = getTime()
     best_book = None
     best_rating = -1
     start_time = 0
