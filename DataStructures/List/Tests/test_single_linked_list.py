@@ -137,7 +137,7 @@ def test_insert_element():
     assert type(lt.insert_element(lista, 2, 0)) == dict
 
 
-@handle_not_implemented
+
 def test_is_present():
     lista = setup_tests()
 
